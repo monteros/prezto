@@ -16,10 +16,10 @@
 zstyle ':prezto:*:*' color 'yes'
 
 # Set the Zsh modules to load (man zshmodules).
-# zstyle ':prezto:load' zmodule 'attr' 'stat'
+zstyle ':prezto:load' zmodule 'attr' 'stat'
 
 # Set the Zsh functions to load (man zshcontrib).
-# zstyle ':prezto:load' zfunction 'zargs' 'zmv'
+zstyle ':prezto:load' zfunction 'zargs' 'zmv'
 
 # Set the Prezto modules to load (browse modules).
 # The order matters.
@@ -127,7 +127,7 @@ zstyle ':prezto:module:ssh:load' identities 'id_rsa' 'id_rsa2' 'id_github'
  zstyle ':prezto:module:syntax-highlighting' highlighters \
    'main' \
    'brackets' \
-#   'pattern' \
+   'pattern' \
    'line' \
    'cursor' \
    'root'
