@@ -46,7 +46,7 @@ I've fixed the installation instructions above to cover the common issues with i
 > $ setopt EXTENDED_GLOB
 > bash: setopt: command not found
 
-Also note that the original author seemed to go out of his way to prevent any good discussion on this issue by directing users from one git comment to the next saying that the issue was covered in issue #365 in a comment in issue #231 (https://github.com/sorin-ionescu/prezto/issues/231) but in issue #365 (https://github.com/sorin-ionescu/prezto/issues/365) he states that issue #365 is a duplicate of issue #231... I don't know how that's helpful. 
+Also note that the original author / current maintainer seemed to go out of his way to prevent any good discussion on this issue by directing users from one git comment to the next saying that the issue was covered in issue #365 in a comment in issue #231 (https://github.com/sorin-ionescu/prezto/issues/231) but in issue #365 (https://github.com/sorin-ionescu/prezto/issues/365) he states that issue #365 is a duplicate of issue #231... I don't know how that's helpful. 
 
 Making someone waste their time debugging something is not useful. It is rather ironic that people install zsh and zprezto are probably looking to make their working environment more efficient and when they get to zprezto they find an arbitrary test of suitability that totally wastes their time.
 
