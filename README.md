@@ -56,7 +56,7 @@ Making someone waste their time debugging something is not useful. It is rather 
 Updating
 --------
 
-Pull the latest changes and update submodules.
+Make sure you are in the .zprezto directory and pull the latest changes and update submodules.
 
     git pull && git submodule update --init --recursive
 
